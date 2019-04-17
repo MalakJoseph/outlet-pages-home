@@ -11,7 +11,6 @@
 ## Credits
 * [FontAwesome](https://fontawesome.com/)
 * [Slick Carousel](http://kenwheeler.github.io/slick/)
-* [Animate](https://daneden.github.io/animate.css/)
 
 ## License
 This project is licensed under the terms of the MIT license.
